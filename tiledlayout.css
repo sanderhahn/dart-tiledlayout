@@ -1,0 +1,47 @@
+body {
+  background-color: #F8F8F8;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.2em;
+  margin: 15px;
+}
+
+h1, p {
+  color: #333;
+}
+
+#tiles {
+  position: relative;
+  margin: 0 auto;
+  padding: 10px 0 0 10px;
+  width: 900px;
+  position: relative;
+  border: 1px solid #ccc;
+  background-color: #ddd;
+}
+
+.num {
+  margin: 5px;
+}
+
+.box-1x1 {
+  margin: 0 10px 10px 0;  
+  width: 90px;
+  height: 90px;
+}
+.box-2x1 {
+  margin: 0 10px 10px 0;  
+  width: 190px;
+  height: 90px;
+}
+.box-1x2 {
+  margin: 0 10px 10px 0;  
+  width: 190px;
+  height: 90px;
+}
+.box-2x2 {
+  margin: 0 10px 10px 0;  
+  width: 190px;
+  height: 190px;
+}
