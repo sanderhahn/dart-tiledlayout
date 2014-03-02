@@ -1,0 +1,3 @@
+#!/bin/sh
+dart2js -m web/tiledlayout.dart -o build/tiledlayout.js
+
